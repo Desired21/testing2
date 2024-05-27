@@ -16,8 +16,8 @@
     </dependency>
   </dependencies>
   <properties>
-  <sonar.login>c5ff5e22aa5b7d8aa44870b1e1e5a2edd16f71c9</sonar.login>
-  <sonar.organization>endricowennaldy</sonar.organization>
+  <sonar.login>bcca5d0ba9d76c6f79d777711e20057a3065a8b3</sonar.login>
+  <sonar.organization>poc-sonarcloud-danakini-test</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
 </project>
